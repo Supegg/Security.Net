@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRSA", "ConsoleRSA\ConsoleRSA.csproj", "{97D3B3D4-3BDA-4BED-88A0-4EAE5E35585D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAUtil", "RSAUtil\RSAUtil.csproj", "{752324A7-EF8D-4CA1-BEE8-655247123939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSSL", "ConsoleSSL\ConsoleSSL.csproj", "{ABAA6DC3-174D-4F54-B48A-5C9C654D3DF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D3B3D4-3BDA-4BED-88A0-4EAE5E35585D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D3B3D4-3BDA-4BED-88A0-4EAE5E35585D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D3B3D4-3BDA-4BED-88A0-4EAE5E35585D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D3B3D4-3BDA-4BED-88A0-4EAE5E35585D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752324A7-EF8D-4CA1-BEE8-655247123939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752324A7-EF8D-4CA1-BEE8-655247123939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752324A7-EF8D-4CA1-BEE8-655247123939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752324A7-EF8D-4CA1-BEE8-655247123939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAA6DC3-174D-4F54-B48A-5C9C654D3DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAA6DC3-174D-4F54-B48A-5C9C654D3DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAA6DC3-174D-4F54-B48A-5C9C654D3DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAA6DC3-174D-4F54-B48A-5C9C654D3DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
